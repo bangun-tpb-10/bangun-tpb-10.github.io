@@ -8,7 +8,7 @@
 <title>bangun-XITPB-10</title>
 </head>
 <body>
-<h1> Ini website Ikhsan Saputra XI TPB Nomor Urut 10</h1>
+<h1> Ini website Bangun setiyadi XI TPB Nomor Urut 10</h1>
 <p> Saya berhasil membuat website simple ini sendiri. </p>
 </body>
 </html>
